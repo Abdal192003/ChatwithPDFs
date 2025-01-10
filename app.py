@@ -1,9 +1,5 @@
 # MADE BY ==
             # ABDAL AHMAD KHAN (2230139)
-            # ABHIGYAN KUMAR ( 2230140 )
-            # ABHISHEK ADARSH ( 2230141 )
-            # AJIT TRIPATHY  ( 2230142 )
-            # ANMOL SHUBHAM ( 2230148 )
 
 # # " "------ Importing Libraries ------" "
 
